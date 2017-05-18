@@ -1,0 +1,4 @@
+ola texto
+:x
+:q
+
